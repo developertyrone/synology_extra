@@ -4,11 +4,13 @@
 
 2. ​    Installation of other components
 
-   1. optional : 
+   1. optional : [pihole](#pihole)
 
-      [install]: pihole/index.md
 
-      
 
-      1. pihole/index.md
+
+
+
+
+# pihole
 
